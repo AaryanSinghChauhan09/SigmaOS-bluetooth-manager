@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-mint-bluetooth-manager: mint bluetooth manager component model.
+//! SigmaOS-bluetooth-manager: mint bluetooth manager component model.
 //!
 //! Real implementation: managers, events, validation, deterministic storage.
 //! Replaces the placeholder stub.

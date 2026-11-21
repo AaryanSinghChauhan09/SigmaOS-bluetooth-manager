@@ -1,4 +1,4 @@
-# SigmaOS-mint-bluetooth-manager
+# SigmaOS-bluetooth-manager
 
 Bluetooth manager for SigmaOS inspired by Linux Mint
 

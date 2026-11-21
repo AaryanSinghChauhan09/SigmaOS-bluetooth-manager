@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-mint-bluetooth-manager"
+name = "SigmaOS-bluetooth-manager"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
 description = "SigmaOS mint-bluetooth-manager component"
 
 [lib]
-name = "mint_bluetooth_manager"
+name = "sigmaos_bluetooth_manager"
 path = "src/lib.rs"
